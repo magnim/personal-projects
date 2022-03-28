@@ -1,2 +1,2 @@
 # personal-projects
-the above are games created as to increase my skills 
+the above are some projects created to increase my skills
