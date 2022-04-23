@@ -1,2 +1,2 @@
 # personal-projects
-the above are some projects created to increase my skills
+I worked on the projects as to increase my skills and understanding towards the language
