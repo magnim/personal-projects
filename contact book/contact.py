@@ -25,7 +25,7 @@ def create():
     '''
     cur.execute(create_query)
     conn.commit()
-
+ 
 
 def insert():
     try:
