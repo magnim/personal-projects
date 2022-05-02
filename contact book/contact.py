@@ -3,8 +3,6 @@ Author : Magnim
 
 '''
 
-
-from telnetlib import EC
 import psycopg2 as pg2
 
 hostname = input('Hostname : ')
